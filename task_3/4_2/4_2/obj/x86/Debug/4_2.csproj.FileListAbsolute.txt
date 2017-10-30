@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\4_2\4_2\bin\Debug\4_2.exe
+C:\Users\Administrator\Desktop\4_2\4_2\bin\Debug\4_2.pdb
+C:\Users\Administrator\Desktop\4_2\4_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4_2\4_2\obj\x86\Debug\4_2.exe
+C:\Users\Administrator\Desktop\4_2\4_2\obj\x86\Debug\4_2.pdb
+D:\GitHub\C#\task_3\4_2\4_2\obj\x86\Debug\4_2.exe
+D:\GitHub\C#\task_3\4_2\4_2\obj\x86\Debug\4_2.pdb

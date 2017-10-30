@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\4_4\4_4\bin\Debug\4_4.exe
+C:\Users\Administrator\Desktop\4_4\4_4\bin\Debug\4_4.pdb
+C:\Users\Administrator\Desktop\4_4\4_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4_4\4_4\obj\x86\Debug\_4_4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4_4\4_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\4_4\4_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\4_4\4_4\obj\x86\Debug\4_4.exe
+C:\Users\Administrator\Desktop\4_4\4_4\obj\x86\Debug\4_4.pdb
+C:\Users\Administrator\Desktop\4_4\4_4\obj\x86\Debug\_4_4.Form1.resources
+D:\GitHub\C#\task_3\4_4\4_4\obj\x86\Debug\4_4.exe
+D:\GitHub\C#\task_3\4_4\4_4\obj\x86\Debug\4_4.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\C#\calculatePlus\calculatePlus\obj\x86\Debug\calculatePlus.Form1.resources
+D:\GitHub\C#\calculatePlus\calculatePlus\obj\x86\Debug\calculatePlus.Properties.Resources.resources
+D:\GitHub\C#\calculatePlus\calculatePlus\obj\x86\Debug\calculatePlus.csproj.GenerateResource.Cache
+D:\GitHub\C#\calculatePlus\calculatePlus\bin\Debug\calculatePlus.exe
+D:\GitHub\C#\calculatePlus\calculatePlus\bin\Debug\calculatePlus.pdb
+D:\GitHub\C#\calculatePlus\calculatePlus\obj\x86\Debug\calculatePlus.exe
+D:\GitHub\C#\calculatePlus\calculatePlus\obj\x86\Debug\calculatePlus.pdb

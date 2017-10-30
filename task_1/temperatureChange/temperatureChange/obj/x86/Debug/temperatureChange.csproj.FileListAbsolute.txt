@@ -1,0 +1,7 @@
+D:\GitHub\C#\temperatureChange\temperatureChange\obj\x86\Debug\temperatureChange.Form1.resources
+D:\GitHub\C#\temperatureChange\temperatureChange\obj\x86\Debug\temperatureChange.Properties.Resources.resources
+D:\GitHub\C#\temperatureChange\temperatureChange\obj\x86\Debug\temperatureChange.csproj.GenerateResource.Cache
+D:\GitHub\C#\temperatureChange\temperatureChange\bin\Debug\temperatureChange.exe
+D:\GitHub\C#\temperatureChange\temperatureChange\bin\Debug\temperatureChange.pdb
+D:\GitHub\C#\temperatureChange\temperatureChange\obj\x86\Debug\temperatureChange.exe
+D:\GitHub\C#\temperatureChange\temperatureChange\obj\x86\Debug\temperatureChange.pdb

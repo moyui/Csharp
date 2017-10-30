@@ -1,0 +1,9 @@
+D:\GitHub\C#\runnian\runnian\bin\Debug\runnian.exe
+D:\GitHub\C#\runnian\runnian\bin\Debug\runnian.pdb
+D:\GitHub\C#\runnian\runnian\obj\x86\Debug\runnian.Form1.resources
+D:\GitHub\C#\runnian\runnian\obj\x86\Debug\runnian.Properties.Resources.resources
+D:\GitHub\C#\runnian\runnian\obj\x86\Debug\runnian.csproj.GenerateResource.Cache
+D:\GitHub\C#\runnian\runnian\obj\x86\Debug\runnian.exe
+D:\GitHub\C#\runnian\runnian\obj\x86\Debug\runnian.pdb
+D:\GitHub\C#\task_2\runnian\runnian\obj\x86\Debug\runnian.exe
+D:\GitHub\C#\task_2\runnian\runnian\obj\x86\Debug\runnian.pdb

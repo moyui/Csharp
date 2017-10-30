@@ -1,0 +1,5 @@
+D:\GitHub\C#\calculateCircle\calculateCircle\bin\Debug\calculateCircle.exe
+D:\GitHub\C#\calculateCircle\calculateCircle\bin\Debug\calculateCircle.pdb
+D:\GitHub\C#\calculateCircle\calculateCircle\obj\x86\Debug\calculateCircle.exe
+D:\GitHub\C#\calculateCircle\calculateCircle\obj\x86\Debug\calculateCircle.pdb
+D:\GitHub\C#\calculateCircle\calculateCircle\obj\x86\Debug\calculateCircle.csprojResolveAssemblyReference.cache

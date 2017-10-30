@@ -1,0 +1,4 @@
+D:\GitHub\C#\task_2\3_11\3_11\bin\Debug\3_11.exe
+D:\GitHub\C#\task_2\3_11\3_11\bin\Debug\3_11.pdb
+D:\GitHub\C#\task_2\3_11\3_11\obj\x86\Debug\3_11.exe
+D:\GitHub\C#\task_2\3_11\3_11\obj\x86\Debug\3_11.pdb

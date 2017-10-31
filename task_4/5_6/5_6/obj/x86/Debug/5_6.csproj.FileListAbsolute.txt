@@ -1,0 +1,5 @@
+D:\GitHub\Csharp\task_4\5_6\5_6\bin\Debug\5_6.exe
+D:\GitHub\Csharp\task_4\5_6\5_6\bin\Debug\5_6.pdb
+D:\GitHub\Csharp\task_4\5_6\5_6\obj\x86\Debug\5_6.exe
+D:\GitHub\Csharp\task_4\5_6\5_6\obj\x86\Debug\5_6.pdb
+D:\GitHub\Csharp\task_4\5_6\5_6\obj\x86\Debug\5_6.csprojResolveAssemblyReference.cache

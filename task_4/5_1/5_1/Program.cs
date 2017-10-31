@@ -1,41 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Windows.Forms;
 
 namespace _5_1
 {
-    class Program
+    static class Program
     {
-        static Boolean Judge(int value, int[] arr) 
+        /// <summary>
+        /// 应用程序的主入口点。
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            for (int i = 0; i < arr.Length; i++)
-            {
-                if (arr[i] == value)
-                {
-                    return true;
-                }
-            }
-            return false;
-        }
-        static void Main(string[] args)
-        {
-            int[] arr = new int[10];
-            int value;
-            for (int i = 0; i < 10; i++)
-            {
-                do
-                {
-                    Random rnd = new Random();
-                    value = rnd.Next(50, 99);
-                } while (Judge(value, arr));
-                arr[i] = value;
-            }
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.Write("{0} ", arr[i]);
-            }
-            Console.ReadLine();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }

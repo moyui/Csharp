@@ -1,0 +1,4 @@
+D:\GitHub\Csharp\task_4\5_7\5_7\bin\Debug\5_7.exe
+D:\GitHub\Csharp\task_4\5_7\5_7\bin\Debug\5_7.pdb
+D:\GitHub\Csharp\task_4\5_7\5_7\obj\x86\Debug\5_7.exe
+D:\GitHub\Csharp\task_4\5_7\5_7\obj\x86\Debug\5_7.pdb

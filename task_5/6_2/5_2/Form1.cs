@@ -38,11 +38,11 @@ namespace _6_2
         private void button1_Click(object sender, EventArgs e)
         {
             int[,] newArr = new int[juzhen.length,juzhen.width];
-            for (int i = 0; i < juzhen.width; i++)
+            for (int i = 0; i < juzhen.length; i++)
             {
-                for (int j = 0; j < juzhen.length; j++)
+                for (int j = 0; j < juzhen.width; j++)
                 {
-                    newArr[j, i] = juzhen.arr[i, j];
+                    newArr[i, j] = juzhen.arr[juzhen.width - 1 - j, i];
                 }
             }
             for (int i = 0; i < juzhen.length; i++)

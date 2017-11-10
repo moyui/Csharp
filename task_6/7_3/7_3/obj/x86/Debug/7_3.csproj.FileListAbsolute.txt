@@ -1,0 +1,7 @@
+D:\GitHub\Csharp\task_6\7_3\7_3\bin\Debug\7_3.exe
+D:\GitHub\Csharp\task_6\7_3\7_3\bin\Debug\7_3.pdb
+D:\GitHub\Csharp\task_6\7_3\7_3\obj\x86\Debug\_7_3.Form1.resources
+D:\GitHub\Csharp\task_6\7_3\7_3\obj\x86\Debug\_7_3.Properties.Resources.resources
+D:\GitHub\Csharp\task_6\7_3\7_3\obj\x86\Debug\7_3.csproj.GenerateResource.Cache
+D:\GitHub\Csharp\task_6\7_3\7_3\obj\x86\Debug\7_3.exe
+D:\GitHub\Csharp\task_6\7_3\7_3\obj\x86\Debug\7_3.pdb

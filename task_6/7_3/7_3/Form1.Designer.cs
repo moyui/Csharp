@@ -37,21 +37,23 @@
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(2, 280);
+            this.progressBar1.Location = new System.Drawing.Point(2, 299);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(461, 36);
+            this.progressBar1.Size = new System.Drawing.Size(525, 36);
+            this.progressBar1.Step = 4;
             this.progressBar1.TabIndex = 0;
             // 
             // timer1
             // 
+            this.timer1.Interval = 50;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::_7_3.Properties.Resources.mililianzi;
-            this.pictureBox1.Location = new System.Drawing.Point(59, 40);
+            this.pictureBox1.Location = new System.Drawing.Point(2, -2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(350, 218);
+            this.pictureBox1.Size = new System.Drawing.Size(525, 295);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
@@ -59,7 +61,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(463, 328);
+            this.ClientSize = new System.Drawing.Size(527, 341);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.progressBar1);
             this.Name = "Form1";
@@ -73,8 +75,8 @@
         #endregion
 
         private System.Windows.Forms.ProgressBar progressBar1;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Timer timer1;
+        protected System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

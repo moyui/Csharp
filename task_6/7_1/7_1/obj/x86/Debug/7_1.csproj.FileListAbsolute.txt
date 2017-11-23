@@ -5,3 +5,4 @@ D:\GitHub\Csharp\task_6\7_1\7_1\obj\x86\Debug\_7_1.Properties.Resources.resource
 D:\GitHub\Csharp\task_6\7_1\7_1\obj\x86\Debug\7_1.csproj.GenerateResource.Cache
 D:\GitHub\Csharp\task_6\7_1\7_1\obj\x86\Debug\7_1.exe
 D:\GitHub\Csharp\task_6\7_1\7_1\obj\x86\Debug\7_1.pdb
+D:\GitHub\Csharp\task_6\7_1\7_1\obj\x86\Debug\7_1.csprojResolveAssemblyReference.cache

@@ -29,14 +29,11 @@ namespace _8_2
             DialogResult myresult = openFileDialog1.ShowDialog();
             if (myresult == DialogResult.OK)
             {
-                StreamReader sr = new StreamReader(openFileDialog1.FileName);
-                string temp = "";
-                while(!sr.EndOfStream)  //读到文件流结尾退出
+                for (int i = 0; i < openFileDialog1.FileNames.Length; i++)
                 {
-                temp += sr.ReadLine() + "\n";
+                    richTextBox1.Text += "第" + count++ + "个文件:\n" + System.IO.File.ReadAllText(openFileDialog1.FileNames[i], Encoding.Default) + "\n";
+                    toolStripStatusLabel1.Text += openFileDialog1.FileNames[i] + "  ";
                 }
-                richTextBox1.Text += "第" + count++ + "个文件:\n" + temp + "\n";
-                sr.Close();
             }
         }
 
@@ -44,5 +41,6 @@ namespace _8_2
         {
             openFileDialog1.Filter = "文本文件|*.txt";
         }
+
     }
 }

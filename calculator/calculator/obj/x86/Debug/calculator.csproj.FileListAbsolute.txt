@@ -5,3 +5,4 @@ D:\GitHub\Csharp\calculator\calculator\obj\x86\Debug\calculator.Properties.Resou
 D:\GitHub\Csharp\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
 D:\GitHub\Csharp\calculator\calculator\obj\x86\Debug\calculator.exe
 D:\GitHub\Csharp\calculator\calculator\obj\x86\Debug\calculator.pdb
+D:\GitHub\Csharp\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache

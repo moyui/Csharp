@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\_9_5.Form1.resources
+C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\_9_5.Properties.Resources.resources
+C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\9_5\9_5\bin\Debug\9_5.exe
+C:\Users\Administrator\Desktop\9_5\9_5\bin\Debug\9_5.pdb
+C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\9_5.exe
+C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\9_5.pdb

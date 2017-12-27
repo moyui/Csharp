@@ -10,8 +10,6 @@ using System.Windows.Forms;
 
 namespace _9_6
 {
-
-
     public partial class Form1 : Form
     {
         public Form1()
@@ -32,16 +30,24 @@ namespace _9_6
 
         private void button3_Click(object sender, EventArgs e)
         {
-            DirectoryInfo source = new DirectoryInfo(path);
-            DirectoryInfo destination = new DirectoryInfo(textBox2.Text);
-            if (!destination.Exists)
+            try
             {
-                destination.Create();
+                DirectoryInfo source = new DirectoryInfo(path);
+                DirectoryInfo destination = new DirectoryInfo(textBox2.Text);
+                if (!destination.Exists)
+                {
+                    destination.Create();
+                }
+                foreach (FileInfo f in source.GetFiles())
+                {
+                    if (f.Extension == ".docx")
+                        f.CopyTo(destination.FullName + "\\" + f.Name, true);
+                }
+                label3.Text = "复制成功!";
             }
-            foreach (FileInfo f in source.GetFiles())
+            catch (Exception ex)
             {
-                string[] arr = f.FullName.Split('.');
-                if (arr[arr.Length  - 1])
+                label3.Text = "复制异常:" + ex.ToString();
             }
         }
     }

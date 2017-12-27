@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\10_7\10_7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\10_7\10_7\obj\x86\Debug\_10_7.Form1.resources
+C:\Users\Administrator\Desktop\10_7\10_7\obj\x86\Debug\_10_7.Properties.Resources.resources
+C:\Users\Administrator\Desktop\10_7\10_7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\10_7\10_7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\10_7\10_7\bin\Debug\10_7.exe
+C:\Users\Administrator\Desktop\10_7\10_7\bin\Debug\10_7.pdb
+C:\Users\Administrator\Desktop\10_7\10_7\obj\x86\Debug\10_7.exe
+C:\Users\Administrator\Desktop\10_7\10_7\obj\x86\Debug\10_7.pdb
+D:\GitHub\Csharp\task_9\10_7\10_7\obj\x86\Debug\10_7.exe
+D:\GitHub\Csharp\task_9\10_7\10_7\obj\x86\Debug\10_7.pdb
+D:\GitHub\Csharp\task_9\10_7\10_7\bin\Debug\10_7.exe
+D:\GitHub\Csharp\task_9\10_7\10_7\bin\Debug\10_7.pdb
+D:\GitHub\Csharp\task_9\10_7\10_7\obj\x86\Debug\_10_7.Form1.resources
+D:\GitHub\Csharp\task_9\10_7\10_7\obj\x86\Debug\_10_7.Properties.Resources.resources
+D:\GitHub\Csharp\task_9\10_7\10_7\obj\x86\Debug\10_7.csproj.GenerateResource.Cache

@@ -37,9 +37,9 @@ namespace _9_5
                         richTextBox1.Text += bmpfile[i].ToString("X") + " ";
                     }
                 }
-                catch 
+                catch(Exception ex)
                 {
-                    richTextBox1.Text = "文件打开错误";
+                    richTextBox1.Text = "文件打开错误" + ex.ToString();
                 }
             }
         }

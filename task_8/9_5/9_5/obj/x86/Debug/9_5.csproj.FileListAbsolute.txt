@@ -7,3 +7,11 @@ C:\Users\Administrator\Desktop\9_5\9_5\bin\Debug\9_5.exe
 C:\Users\Administrator\Desktop\9_5\9_5\bin\Debug\9_5.pdb
 C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\9_5.exe
 C:\Users\Administrator\Desktop\9_5\9_5\obj\x86\Debug\9_5.pdb
+D:\GitHub\Csharp\task_8\9_5\9_5\obj\x86\Debug\9_5.exe
+D:\GitHub\Csharp\task_8\9_5\9_5\obj\x86\Debug\9_5.pdb
+D:\GitHub\Csharp\task_8\9_5\9_5\bin\Debug\9_5.exe
+D:\GitHub\Csharp\task_8\9_5\9_5\bin\Debug\9_5.pdb
+D:\GitHub\Csharp\task_8\9_5\9_5\obj\x86\Debug\9_5.csprojResolveAssemblyReference.cache
+D:\GitHub\Csharp\task_8\9_5\9_5\obj\x86\Debug\_9_5.Form1.resources
+D:\GitHub\Csharp\task_8\9_5\9_5\obj\x86\Debug\_9_5.Properties.Resources.resources
+D:\GitHub\Csharp\task_8\9_5\9_5\obj\x86\Debug\9_5.csproj.GenerateResource.Cache

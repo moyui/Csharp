@@ -20,6 +20,7 @@ namespace _1
         {
             label1.Text += "高夕毓";
             label2.Text += "1513490428";
+            pictureBox1.ImageLocation = "1.jpg";
         }
     }
 }

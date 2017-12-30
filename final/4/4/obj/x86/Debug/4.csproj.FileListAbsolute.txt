@@ -1,0 +1,7 @@
+D:\GitHub\Csharp\final\4\4\bin\Debug\4.exe
+D:\GitHub\Csharp\final\4\4\bin\Debug\4.pdb
+D:\GitHub\Csharp\final\4\4\obj\x86\Debug\_4.Form1.resources
+D:\GitHub\Csharp\final\4\4\obj\x86\Debug\_4.Properties.Resources.resources
+D:\GitHub\Csharp\final\4\4\obj\x86\Debug\4.csproj.GenerateResource.Cache
+D:\GitHub\Csharp\final\4\4\obj\x86\Debug\4.exe
+D:\GitHub\Csharp\final\4\4\obj\x86\Debug\4.pdb

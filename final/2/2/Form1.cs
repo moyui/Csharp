@@ -28,7 +28,6 @@ namespace _2
         private void button1_Click(object sender, EventArgs e)
         {
             int answer = int.Parse(textBox1.Text);
-            count++;
             if (count < 20)
             {
                 if (answer < num) 
@@ -39,10 +38,15 @@ namespace _2
                 } else {
                     label2.Text = "恭喜你答对了！猜的次数为" + count;
                 }
+                if (count == 19) //最后一次猜数
+                {
+                    textBox1.Enabled = false;
+                }
+                count++;
             } else 
             {
                 textBox1.Enabled = false;
-                label2.Text = "超过20次啦！";
+                MessageBox.Show("超过20次了!", "Waring!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

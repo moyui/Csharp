@@ -24,18 +24,20 @@ namespace _5
             int time = int.Parse(textBox3.Text);
             int min = time % 60;
             int hour = time / 60;
+            int count = 0;
             TimeSpan span = new TimeSpan(hour, min, 0);
             do
             {
                 dt3 = dt1.Add(span);
+                count++;
                 if (DateTime.Compare(dt2, dt3) < 0)
                 {
-                    MessageBox.Show("最后一组时间不够!", "Waring!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("第" + count + "组时间不够!", "Waring!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     break;
                 }
                 else 
                 {
-                    label4.Text += string.Format("{0:t}-{1:t}\n", dt1, dt3);
+                    listBox1.Items.Add(string.Format("{0:t}-{1:t}\n", dt1, dt3));
                 }
                 dt1 = dt3;
             } while (DateTime.Compare(dt3, dt2) < 0);

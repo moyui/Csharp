@@ -5,3 +5,4 @@ D:\GitHub\Csharp\final\2\2\bin\Debug\2.exe
 D:\GitHub\Csharp\final\2\2\bin\Debug\2.pdb
 D:\GitHub\Csharp\final\2\2\obj\x86\Debug\2.exe
 D:\GitHub\Csharp\final\2\2\obj\x86\Debug\2.pdb
+D:\GitHub\Csharp\final\2\2\obj\x86\Debug\2.csprojResolveAssemblyReference.cache

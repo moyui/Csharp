@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\bin\Debug\fujia.exe
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\bin\Debug\fujia.pdb
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.Form1.resources
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.Properties.Resources.resources
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.exe
+C:\Users\Administrator\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.pdb
+C:\Users\Egoist-Luo\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.exe
+C:\Users\Egoist-Luo\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.pdb
+C:\Users\Egoist-Luo\Desktop\附加题\fujia\fujia\bin\Debug\fujia.exe
+C:\Users\Egoist-Luo\Desktop\附加题\fujia\fujia\bin\Debug\fujia.pdb
+C:\Users\Egoist-Luo\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.Form1.resources
+C:\Users\Egoist-Luo\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.Properties.Resources.resources
+C:\Users\Egoist-Luo\Desktop\附加题\fujia\fujia\obj\x86\Debug\fujia.csproj.GenerateResource.Cache

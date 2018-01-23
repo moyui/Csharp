@@ -8,3 +8,4 @@ D:\GitHub\Csharp\final\6\6\obj\x86\Debug\6.pdb
 D:\GitHub\Csharp\final\6\6\obj\x86\Debug\6.csprojResolveAssemblyReference.cache
 D:\GitHub\Csharp\final\6\6\obj\x86\Debug\_6.Add.resources
 D:\GitHub\Csharp\final\6\6\obj\x86\Debug\_6.Delete.resources
+D:\GitHub\Csharp\final\6\6\obj\x86\Debug\_6.Update.resources

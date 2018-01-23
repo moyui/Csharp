@@ -44,7 +44,7 @@ namespace _6
 
         private void addData(long num, string name, string birth, string loc, string major, string tel, string email, string sex)  //增加数据委托的方法
         {
-            DataRow row = table.NewRow();
+            DataRow row = table.NewRow(); //创建行，并插入数据
             row["学号"] = num;
             row["姓名"] = name;
             row["性别"] = sex;
@@ -55,7 +55,7 @@ namespace _6
             row["Email地址"] = email;
             table.Rows.Add(row);
             dataGridView1.EndEdit();
-            adapter.Update(table);
+            adapter.Update(table);  //更新数据
             MessageBox.Show("已经成功添加数据", "添加数据", MessageBoxButtons.OK);
         }
 
@@ -69,24 +69,53 @@ namespace _6
 
         private Boolean deleteData(long num) //删除数据委托的方法
         {
-            foreach (DataRow row in table.Rows)
+            foreach (DataRow row in table.Rows)  //遍历行，找到学号对应的行
             {
-                if (row[0].ToString()== num.ToString())
+                if (row["学号"].ToString()== num.ToString()) //找到
                 {
                     dataGridView1.EndEdit();
-                    row.Delete();
+                    row.Delete(); //删除行
                     adapter.Update(table);
                     MessageBox.Show("成功删除该学生", "删除数据", MessageBoxButtons.OK);
                     return true;
                 }
             }
-            MessageBox.Show("找不到该学生", "错误", MessageBoxButtons.OK);
+            MessageBox.Show("找不到该学生", "错误", MessageBoxButtons.OK,MessageBoxIcon.Warning); //找不到
             return false;
         }
 
         private void 修改数据ToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            Update update = new Update(table);  //传入table
+            update.UpdateText += new UpdateTextHandler(updateData);  //添加更新数据委托
+            update.ShowDialog();
+            dataGridView1.DataSource = table;
+        }
 
+        private Boolean updateData(long num, string name, string birth, string loc, string major, string tel, string email, string sex, long oldnum)  //更新数据委托的方法
+        {
+            foreach (DataRow row in table.Rows)  //遍历行，找到学号对应的行
+            {
+                if (row["学号"].ToString() == oldnum.ToString()) //找到
+                {
+                    dataGridView1.EndEdit();
+                    row.Delete(); //删除行
+                    DataRow newRow = table.NewRow(); //创建行，并插入数据
+                    newRow["学号"] = num;
+                    newRow["姓名"] = name;
+                    newRow["性别"] = sex;
+                    newRow["出生年月"] = birth;
+                    newRow["籍贯"] = loc;
+                    newRow["专业"] = major;
+                    newRow["手机号"] = tel;
+                    newRow["Email地址"] = email;
+                    table.Rows.Add(newRow);
+                    dataGridView1.EndEdit();
+                    adapter.Update(table);  //更新数据
+                    return true;
+                }
+            }
+            return true;
         }
     }
 }
